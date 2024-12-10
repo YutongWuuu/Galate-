@@ -1,4 +1,4 @@
-# Galate-
+# Galatea
 Visual Novel: A dystopian story reflecting the intimate relationship with AI chatbots
 <img width="1103" alt="start" src="https://github.com/user-attachments/assets/ba294405-6741-414b-9a3c-bc975a43ec25">
 <img width="1470" alt="username input" src="https://github.com/user-attachments/assets/e86211ee-8d3e-413e-9008-7c8b24b7dc16">
